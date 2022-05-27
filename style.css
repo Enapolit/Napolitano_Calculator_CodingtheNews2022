@@ -27,8 +27,6 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 body,
 html {
-  margin: 25px;
-  display: flex;
   /* Sets default font-size to 16px, ensuring 1em = 16px; */
   font-size: 16px;
 }
